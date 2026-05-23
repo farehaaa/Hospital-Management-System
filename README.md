@@ -27,4 +27,4 @@ Prerequisites:
 Stored Procedures & Logic:
 The database contains operational layer automations, such as the Generate_Bill routine which standardizes calculations by automatically incorporating a 5% service tax markup.
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the APACHE License 2.0.
